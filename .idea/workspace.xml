@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="831d8344-5214-4014-b4ca-8bef58b6ca99" name="Changes" comment="Completed Task 1&#10;Completed Task 2&#10;Completed Task 3&#10;Completed Task 6">
+      <change beforePath="$PROJECT_DIR$/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GiliAnoT&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/UPRM-CIIC3015-F25/pa0-giliano-n-jeriel&quot;,
+    &quot;accountId&quot;: &quot;3db0a446-8d8f-4a1e-97c1-a00fb43894bf&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="32D1trswIPpK74jDQN4MGDksLUP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Game.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Merging main",
+    "last_opened_file_path": "C:/Users/gilia/PycharmProjects/pa0-giliano-n-jeriel",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gilia\PycharmProjects\pa0-giliano-n-jeriel" />
+      <recent name="C:\Users\gilia\PycharmProjects\pa0-giliano-n-jeriel\playsound" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="831d8344-5214-4014-b4ca-8bef58b6ca99" name="Changes" comment="" />
+      <created>1756940546418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756940546418</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Completed Task 1">
+      <option name="closed" value="true" />
+      <created>1757112567414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757112567414</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Completed Task 1&#10;Completed Task 6">
+      <option name="closed" value="true" />
+      <created>1757119090239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757119090239</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Completed Task 1&#10;Completed Task 2&#10;Completed Task 6">
+      <option name="closed" value="true" />
+      <created>1757120112664</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757120112664</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Completed Task 1&#10;Completed Task 2&#10;Completed Task 3&#10;Completed Task 6">
+      <option name="closed" value="true" />
+      <created>1757121616512</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757121616512</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Completed Task 1&#10;Completed Task 2&#10;Completed Task 3&#10;Completed Task 6">
+      <option name="closed" value="true" />
+      <created>1757252247862</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757252247862</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Completed Task 1&#10;Completed Task 2&#10;Completed Task 3&#10;Completed Task 6">
+      <option name="closed" value="true" />
+      <created>1757252765255</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757252765255</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Completed Task 1&#10;Completed Task 2&#10;Completed Task 3&#10;Completed Task 6">
+      <option name="closed" value="true" />
+      <created>1757253344143</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1757253344143</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Completed Task 1&#10;Completed Task 2&#10;Completed Task 3&#10;Completed Task 6">
+      <option name="closed" value="true" />
+      <created>1757253444270</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1757253444270</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Completed Task 1&#10;Completed Task 2&#10;Completed Task 3&#10;Completed Task 6">
+      <option name="closed" value="true" />
+      <created>1757253743754</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1757253743754</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Completed Task 1&#10;Completed Task 2&#10;Completed Task 3&#10;Completed Task 6">
+      <option name="closed" value="true" />
+      <created>1757253855096</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1757253855096</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Completed Task 1&#10;Completed Task 2&#10;Completed Task 3&#10;Completed Task 6">
+      <option name="closed" value="true" />
+      <created>1757254168666</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1757254168666</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Completed Task 1&#10;Completed Task 2&#10;Completed Task 3&#10;Completed Task 6">
+      <option name="closed" value="true" />
+      <created>1757254445973</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1757254445973</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Completed Task 1&#10;Completed Task 2&#10;Completed Task 3&#10;Completed Task 6">
+      <option name="closed" value="true" />
+      <created>1757254650043</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1757254650043</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Completed Task 1&#10;Completed Task 2&#10;Completed Task 3&#10;Completed Task 6">
+      <option name="closed" value="true" />
+      <created>1757254661792</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1757254661792</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Completed Task 1&#10;Completed Task 2&#10;Completed Task 3&#10;Completed Task 6">
+      <option name="closed" value="true" />
+      <created>1757255426256</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1757255426256</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Completed Task 1&#10;Completed Task 2&#10;Completed Task 3&#10;Completed Task 6">
+      <option name="closed" value="true" />
+      <created>1757260618148</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1757260618148</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed Task 1" />
+    <MESSAGE value="Completed Task 1&#10;Completed Task 6" />
+    <MESSAGE value="Completed Task 1&#10;Completed Task 2&#10;Completed Task 6" />
+    <MESSAGE value="Completed Task 1&#10;Completed Task 2&#10;Completed Task 3&#10;Completed Task 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Task 1&#10;Completed Task 2&#10;Completed Task 3&#10;Completed Task 6" />
+  </component>
+</project>
